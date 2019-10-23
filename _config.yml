@@ -1,6 +1,6 @@
 # Site
 #repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+favicon: images/profile.jpeg
 
 # Personal info
 name: Ashwin Krishnamurthy
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Ashwin is a Product Manager at Oracle and lives in San Jose, California, where he leads the next-generation of developer experience for Business Process Automation on the <mark>Cloud</mark>. He has advised two startups, worked as an Engineer, UI Developer and Product Manager in diverse industries ranging from <mark>Semiconductors</mark> to <mark>eCommerce</mark>.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Outside of work, he is an avid reader and a podcast listener. His passion for sharing his craft with the rest of the world, results in him volunteering at local schools and other non-profits aimed at teaching Computer Science to young children.
 
 # Projects Section
 # projects_title: Projects

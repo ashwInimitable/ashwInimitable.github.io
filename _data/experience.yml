@@ -1,9 +1,18 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Oracle
+  link: oracle.com
+  job_title: Senior Product Manager
+  dates: Jun 2019 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Why should enterprise developers have an outdated developer experience?
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    With his engineering chops and a passion for improving the developer experience, Ashwin leads the roadmap for a global team of engineers who build software that puts a smile on every enterprise developer's face.
+- layout: left
+  company: eBay
+  link: ebay.com
+  job_title: Product Manager
+  dates: Jan 2018 - Jun 2019
+  quote: >
+    Why can't providers and consumers stick to a contract?
+  description: | # this will include new lines to allow paragraphs
+    Ashwin disrupted the existing model of developing and shipping services within eBay by building tools and components that streamlined the developer experience and substantially reduced the cost of building and maintaing APIs. The ultimate prize being the launch of 10+ Public APIs that generated revenue for the company.
