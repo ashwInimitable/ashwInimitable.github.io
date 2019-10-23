@@ -13,6 +13,6 @@
   job_title: Product Manager
   dates: Jan 2018 - Jun 2019
   quote: >
-    Why can't providers and consumers stick to a contract?
+    <mark> Why can't service providers and consumers stick to a contract? </mark>
   description: | # this will include new lines to allow paragraphs
     Ashwin disrupted the existing model of developing and shipping services within eBay by building tools and components that streamlined the developer experience and substantially reduced the cost of building and maintaing APIs. The ultimate prize being the launch of 10+ Public APIs that generated revenue for the company.
