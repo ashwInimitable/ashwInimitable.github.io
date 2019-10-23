@@ -21,7 +21,7 @@ linkedin_username: ashwinganeshk
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: Greetings
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Ashwin is a Product Manager at Oracle and lives in San Jose, California, where he leads the next-generation of developer experience for Business Process Automation on the <mark>Cloud</mark>. He has advised two startups, worked as an Engineer, UI Developer and Product Manager in diverse industries ranging from <mark>Semiconductors</mark> to <mark>eCommerce</mark>.
@@ -38,7 +38,9 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Volunteering
+# more_content: |
+
 # Footer
 footer_show_references: false
 
