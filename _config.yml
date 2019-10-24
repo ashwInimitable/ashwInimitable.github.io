@@ -6,7 +6,7 @@ favicon: images/profile.jpeg
 name: Ashwin Krishnamurthy
 title: Senior Product Manager
 #email: brett.h@email.co.uk
-website: http://ashw.ink
+website: http://www.ashw.ink
 
 # Social links
 twitter_username: ashwinimitable
@@ -25,7 +25,7 @@ linkedin_username: ashwinganeshk
 about_title: Greetings
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Ashwin is a Product Manager at Oracle and lives in San Jose, California, where he leads the next-generation of enterprise application development for Business Process Automation on the <mark>Cloud</mark>. He has advised two startups, worked as an Engineer, UI Developer and Product Manager in diverse industries ranging from <mark>Semiconductors</mark> to <mark>eCommerce</mark>.
+  Ashwin is a Product Manager at Oracle and lives in San Jose, California, where he leads the next-generation of enterprise application development for Business Process Automation on the <mark>Cloud</mark>. He has advised two startups, worked as an Engineer, UI Developer and Product Manager in diverse industries ranging from <mark>Cyber Security</mark> to <mark>eCommerce</mark>.
 
   Outside of work, he is an avid reader and a podcast listener. He is passionate about teaching Computer Science and often volunteers at local schools and non-profits aimed at teaching the subject to young learners.
 
