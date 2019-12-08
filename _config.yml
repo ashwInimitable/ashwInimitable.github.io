@@ -5,7 +5,7 @@ favicon: images/profile.jpeg
 # Personal info
 name: Ashwin Krishnamurthy
 title: Senior Product Manager
-#email: brett.h@email.co.uk
+#email: ashwin.ganesh.03@gmail.com
 website: http://www.ashw.ink
 
 # Social links
@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass

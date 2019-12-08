@@ -15,5 +15,5 @@
     - title: Senior Software Engineer
       dates: Feb 2015 - Jan 2018
   description: | # this will include new lines to allow paragraphs
-    ## Why can't service providers and consumers stick to a contract?
-    Ashwin disrupted the existing model of developing and shipping services within eBay by building tools and components that streamlined the developer experience and substantially reduced the cost of building and maintaing APIs. The ultimate prize being the launch of 10+ Public APIs that generated revenue for the company.
+    ## Why is it difficult to develop and ship APIs?
+    Ashwin disrupted the existing model of developing and shipping services within eBay by building tools and components that streamlined the developer experience and substantially reduced the cost of building and maintaing APIs. Public facing APIs that were built on the platform, allowed external developers using the new APIs to create more than 2.1 billion listings and drive more than $154 million GMB (Gross Merchandising Volume Bought) globally YTD.
