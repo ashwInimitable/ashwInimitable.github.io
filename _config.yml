@@ -46,6 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
+theme: modern-resume-them
 # remote_theme: sproogen/resume-theme
 
 sass:
