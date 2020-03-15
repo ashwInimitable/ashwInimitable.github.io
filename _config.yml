@@ -12,15 +12,15 @@ darkmode: true
 # Social links
 twitter_username: ashwinimitable
 stackoverflow_username: 653211/ashwin-krishnamurthy
-# github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
+# github_username:
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
 linkedin_username: ashwinganeshk
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
 
 # About Section
 about_title: Greetings
@@ -28,10 +28,10 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Ashwin is a Product Manager at Oracle and lives in San Jose, California, where he leads the next-generation of enterprise application development for Business Process Automation on the Cloud. He has advised two startups, worked as an Engineer, UI Developer and Product Manager in diverse industries ranging from Cyber Security to e-commerce.
 
-  Outside of work, he is an avid reader and a podcast listener. He is passionate about teaching Computer Science and often volunteers at local schools and non-profits aimed at teaching the subject to young learners.
+  Outside of work, he is an avid reader and a podcast listener. He is passionate about teaching Computer Literacy and often volunteers at local schools and non-profits aimed at teaching Computer Science to young learners.
 
 # Projects Section
-# projects_title: Projects
+projects_title: Achievements
 
 # Experience Section
 # experience_title: Experience
