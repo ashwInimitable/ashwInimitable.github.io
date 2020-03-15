@@ -1,5 +1,6 @@
 - layout: left
-  name: Augmented reality digital content search and sizing techniques
-  link: https://patents.google.com/patent/US10573019B1/
+  name: Patents
+  link: https://patents.google.com/?inventor=Ashwin+Ganesh+Krishnamurthy
   description: | # this will include new lines to allow paragraphs
-    A patent on the user interaction with augmented reality digital content as part of a live stream of digital images of a user's environment is used to specify a size of an area that is used to filter search results to find a “best fit”.
+    - Augmented reality digital content search and sizing techniques (Patent No. US10573019B1)
+    - Garnering Interest on Potential Listing in a Photo or Video (Patent No. US20190236628A1)
