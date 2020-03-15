@@ -1,10 +1,10 @@
 - layout: left
   name: Patents
   description: | # this will include new lines to allow paragraphs
-    - Augmented reality digital content search and sizing techniques (Patent No. US10573019B1)
-    - Garnering Interest on Potential Listing in a Photo or Video (Patent No. US20190236628A1)
+    - Augmented reality digital content search and sizing techniques (<a target="_blank" href="https://patents.google.com/patent/US10573019B1/">Link</a>)
+    - Garnering Interest on Potential Listing in a Photo or Video (<a target="_blank" href="https://patents.google.com/patent/US20190236628A1">Link</a>)
 - layout: left
   name: Publications
   description: | # this will include new lines to allow paragraphs
-    - Gradient based temperature-aware routing in body area sensor networks (<a href="https://dl.acm.org/doi/abs/10.4108/icst.bodynets.2014.257002">Link</a>)
-    - Temperature Aware Probabilistic Sleep Cycle Management for Body Area Sensor Networks (<a href="https://ieeexplore.ieee.org/abstract/document/7035731">Link</a>)
+    - Gradient based temperature-aware routing in body area sensor networks (<a target="_blank" href="https://dl.acm.org/doi/abs/10.4108/icst.bodynets.2014.257002">Link</a>)
+    - Temperature Aware Probabilistic Sleep Cycle Management for Body Area Sensor Networks (<a  target="_blank" href="https://ieeexplore.ieee.org/abstract/document/7035731">Link</a>)
