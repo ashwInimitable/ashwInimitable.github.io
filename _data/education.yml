@@ -1,18 +1,12 @@
-- layout: left
+- layout: center
   name: Kellogg School of Management
   dates: 2020 - 2022
-  qualification: MBA, General Management
-  description: | # this will include new lines to allow paragraphs
-    Pursuing an executive MBA.
-- layout: left
+  qualification: Executive MBA, General Management
+- layout: center
   name: University of Cincinnati
   dates: 2012 - 2014
   qualification: M.S. Computer Science
-  description: | # this will include new lines to allow paragraphs
-    Published two papers on the impact of heat on tissues around sensors in Body Networks. This effort also resulted in him creating a human-tissue based Body Networks work-bench that he contributed to the University of Cincinnati's Center for Distribute and Mobile Computing.
-- layout: left
+- layout: center
   name: Anna University
   dates: 2006 - 2010
   qualification: B.E. Electrical Engineering
-  description: | # this will include new lines to allow paragraphs
-    Ashwin worked with BSA (a leading motorcycle manufacturing company in India) in one of the company's early prototypes of Electric Bikes. This collaboration resulted in the development of a system that paved the way for the future of on-board charging within a BLDC motor.
